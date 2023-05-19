@@ -1,4 +1,4 @@
-module hostscan
+module github.com/whyshsc/hostscan
 
 go 1.15
 
